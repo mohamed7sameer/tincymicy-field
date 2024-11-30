@@ -80,6 +80,8 @@ export default {
           // images_upload_url: '/mo/storage',
           images_upload_url: '/api/upload_tinymce_image',
           automatic_uploads: true,
+          convert_urls: false,
+
 
 
 
