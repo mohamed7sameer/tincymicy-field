@@ -1,8 +1,7 @@
 # Tincymice Editor For Laravel Nove
 
 
-composer install mohamed7sameer/tincymicy-field
-
+composer require mohamed7sameer/tincymicy-field
 
 
 ```shell
